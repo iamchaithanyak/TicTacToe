@@ -9,10 +9,16 @@ Reference of numbering on the board
 -+-+-
 7|8|9
 
+
+
+
 Do you want to be 'X' or 'O'?
 o
 Do you want to go first? (Yes or No)
 no
+
+
+
 The computer will go first.
 X| | 
 -+-+-
